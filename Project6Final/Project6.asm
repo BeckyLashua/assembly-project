@@ -1,7 +1,7 @@
 TITLE  Designing low-level I/O procedures   (Project6.asm)
 
 ; Author: Rebecca Lashua
-; Last Modified: 6/9/2020
+; Last Modified: 6/10/2020
 ; OSU email address: lashuar@oregonstate.edu
 ; Course number/section: CS271
 ; Project Number:  #6             Due Date: 6/7/2020

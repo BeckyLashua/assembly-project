@@ -26,3 +26,5 @@ C:\CS271\Project6ATTEMPT2v10\Debug\Project.exe
 C:\CS271\Project6ATTEMPT2v10\Debug\Project.pdb
 C:\CS271\Project6Final\Debug\Project.exe
 C:\CS271\Project6Final\Debug\Project.pdb
+C:\Dev\assemblyProject\Project6Final\Debug\Project.exe
+C:\Dev\assemblyProject\Project6Final\Debug\Project.pdb

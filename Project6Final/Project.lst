@@ -1,11 +1,11 @@
-Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/09/20 14:12:44
+Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/15/20 14:06:58
 3Designing low-level I/O procedures   (Project6.asm	     Page 1 - 1
 
 
 				TITLE  Designing low-level I/O procedures   (Project6.asm)
 
 				; Author: Rebecca Lashua
-				; Last Modified: 6/9/2020
+				; Last Modified: 6/10/2020
 				; OSU email address: lashuar@oregonstate.edu
 				; Course number/section: CS271
 				; Project Number:  #6             Due Date: 6/7/2020
@@ -663,7 +663,7 @@ Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/09/20 14:12:44
  00000251  50				push	eax				; save registers
  00000252  53				push	ebx
  00000253  51				push	ecx
- 00000254  52				push	edx
+ 00000254  52	push	edx
  00000255  57				push	edi
 
 					; test for negative case
@@ -1172,7 +1172,7 @@ Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/09/20 14:12:44
 
 
 
-Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/09/20 14:12:44
+Microsoft (R) Macro Assembler Version 14.25.28614.0	    06/15/20 14:06:58
 3Designing low-level I/O procedures   (Project6.asm	     Symbols 2 - 1
 
 
