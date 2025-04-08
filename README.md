@@ -1,4 +1,4 @@
-# Designing Low-Level I/O Procedures (Project6.asm)
+# Designing Low-Level I/O Procedures
 
 **Author:** Rebecca Lashua  
 **Course:** CS271 – Computer Architecture & Assembly Language  
