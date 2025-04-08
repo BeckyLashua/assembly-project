@@ -11,7 +11,7 @@
 
 This project demonstrates low-level I/O procedure design in x86 assembly (MASM) by implementing custom input/output operations without relying on high-level library functions.
 
-The program prompts the user to enter **10 signed 32-bit integers**, validating each input using custom `readInt` and `writeInt` procedures. All input/output functionality—including string reads and displays—is handled through custom `getString` and `displayString` macros. Parameters are passed through the stack.
+The program prompts the user to enter **10 signed 32-bit integers**, validating each input using custom `readInt` and `writeInt` procedures. All input/output functionality, including string reads and displays, is handled through custom `getString` and `displayString` macros. Parameters are passed through the stack.
 
 ---
 
